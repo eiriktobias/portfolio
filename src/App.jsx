@@ -1,13 +1,12 @@
 import { useState } from 'react'
-import './App.css'
-import { sidenav } from './components/sidenav'
+import Sidenav from './components/Sidenav'
 
 function App() {
 
 
   return (
     <div>
-      <sidenav />
+      <Sidenav />
     </div>
   )
 }
