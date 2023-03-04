@@ -1,7 +1,10 @@
 import React from 'react'
+import {AiOutlineMenu} from 'react-icons/ai' 
 
 export const sidenav = () => {
   return (
-    <div>sidenav</div>
+    <div>
+        <AiOutlineMenu />
+    </div>
   )
 }
