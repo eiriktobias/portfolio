@@ -25,7 +25,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Noe annet
+        Hei
       </p>
     </div>
   )
