@@ -1,14 +1,15 @@
-import { useState } from 'react';
-import Sidenav from './components/sidenav';
+import { useState } from "react";
+import Main from "./components/Main";
+import Sidenav from "./components/sidenav";
+
+
 function App() {
-
-
   return (
     <div>
-    <h1>All makt til eirik</h1>
-<Sidenav/>  
+      <Sidenav />
+      <Main />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
