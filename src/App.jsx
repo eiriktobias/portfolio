@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <Sidenav />
+      <h1>hei</h1>
     </div>
   )
 }
