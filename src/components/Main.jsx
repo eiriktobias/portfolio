@@ -12,7 +12,7 @@ const Main = () => {
     <div id="main">
       <img
         className="w-full h-screen object-cover scale-x-[-1]"
-        src="https://cdn.pixabay.com/photo/2018/02/25/06/26/outdoors-3179820_960_720.jpg"
+        src="https://cdn.pixabay.com/photo/2017/10/30/18/44/hacking-2903156_960_720.jpg"
         alt="/"
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-white/50">
