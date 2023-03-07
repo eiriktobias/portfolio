@@ -5,26 +5,26 @@ const data = [
   {
     year: 2020,
     title: "Content Creator",
-    duration: "3 year",
+    duration: "2 years",
     details: "Lorem ipsum osv",
   },
   {
     year: 2019,
     title: "Content Creator",
-    duration: "3 year",
-    details: "Lorem ipsum osv",
+    duration: "1 year",
+    details: "Her skal det stå masse god og nyttig info om denne jobben",
   },
   {
     year: 2017,
     title: "Content Creator",
-    duration: "3 year",
-    details: "Lorem ipsum osv",
+    duration: "2 years",
+    details: "Lorem ipsum osv slik at man finner noe wirkelig bra å skrive",
   },
   {
     year: 2015,
     title: "Content Creator",
-    duration: "3 year",
-    details: "Lorem ipsum osv",
+    duration: "2 years",
+    details: "Lorem ipsum, dolor sit amet og masse slikt",
   },
 ];
 const Work = () => {
