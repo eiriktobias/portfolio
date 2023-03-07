@@ -11,8 +11,8 @@ const Main = () => {
   return (
     <div id="main">
       <img
-        className="w-full h-screen object-cover object-left scale-x-"
-        src="https://media.istockphoto.com/id/1253034911/photo/young-man-standing-with-hands-in-pockets-wearing-glasses-and-blank-white-tshirt-with-copy.jpg?s=1024x1024&w=is&k=20&c=yDl579NumWELbAOy52kkgDx-PC7O3FuI1pT4b1s1QSc="
+        className="w-full h-screen object-cover scale-x-[-1]"
+        src="https://cdn.pixabay.com/photo/2018/02/25/06/26/outdoors-3179820_960_720.jpg"
         alt="/"
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-white/50">
